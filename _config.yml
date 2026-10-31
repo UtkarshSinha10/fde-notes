@@ -1,0 +1,7 @@
+title: "FDE Notes — Utkrishta Sinha"
+description: "A 50-day study course for becoming a Forward Deployed Engineer for AI/LLM products."
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
