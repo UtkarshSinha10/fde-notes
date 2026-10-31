@@ -3,6 +3,7 @@ layout: default
 title: "FDE Day 1 — Agent loops and tools"
 date: 2026-10-28
 ---
+{% raw %}
 
 *Utkrishta Sinha · 28 Oct 2026 · about 40 minutes*
 
@@ -1028,3 +1029,4 @@ Final joke: why did the agent break up with the API? Every time it reached out, 
 - [Claude customer story: Intercom](https://claude.com/customers/intercom)
 
 Token counts in the sample transcripts and the cost chart in Section 3.8 are illustrative. Vendor shapes, model IDs and prices were checked against the pages above as of 28 Oct 2026; re-check before quoting a customer.
+{% endraw %}

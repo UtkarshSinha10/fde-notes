@@ -3,6 +3,7 @@ layout: default
 title: "FDE Day 3 — Model selection"
 date: 2026-10-30
 ---
+{% raw %}
 
 *Utkrishta Sinha · 30 Oct 2026 · about 40 minutes*
 
@@ -878,3 +879,4 @@ Final joke: the customer asked for "the best model". The FDE asked, "Best at wha
 - [NPCI: FiMI paper (arXiv)](https://arxiv.org/html/2602.05794v2)
 
 Prices and rankings were checked on 30 to 31 Oct 2026. Leaderboard positions come from a third-party snapshot dated 17 Oct 2026, and some open-weight prices come from third-party trackers. Treat any number not taken from a vendor page as approximate.
+{% endraw %}
