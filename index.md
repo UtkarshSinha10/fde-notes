@@ -7,6 +7,11 @@ A 50-day, one-topic-a-day course on becoming a **Forward Deployed Engineer (FDE)
 
 ## Published days (newest first)
 
+- [Day 8 — Token cost optimization](days/day-08-token-cost-optimization.html) · 4 Nov 2026
+- [Day 7 — Open-source and local models](days/day-07-open-source-and-local-models.html) · 3 Nov 2026
+- [Day 6 — The AI SDK](days/day-06-the-ai-sdk.html) · 3 Nov 2026
+- [Day 5 — Coding agents](days/day-05-coding-agents.html) · 3 Nov 2026
+- [Day 4 — Agent frameworks](days/day-04-agent-frameworks.html) · 3 Nov 2026
 - [Day 3 — Model selection](days/day-03-model-selection.html) · 30 Oct 2026
 - [Day 2 — Frontier LLMs and AI agents](days/day-02-frontier-llms-and-ai-agents.html) · 29 Oct 2026
 - [Day 1 — Agent loops and tools](days/day-01-agent-loops-and-tools.html) · 28 Oct 2026
