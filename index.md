@@ -3,10 +3,12 @@ layout: default
 title: "FDE Notes — Utkrishta Sinha"
 ---
 
-A 50-day, one-topic-a-day course on becoming a **Forward Deployed Engineer (FDE)** for AI/LLM products: from agent loops and frontier models to MCP, evals, security, production deployment and customer adoption. Each day has beginner-friendly explanations, diagrams, runnable code, real case studies, a hands-on exercise and interview questions.
+A 20-day course covering a 50-topic syllabus on becoming a **Forward Deployed Engineer (FDE)** for AI/LLM products: from agent loops and frontier models to MCP, evals, security, production deployment and customer adoption. Each day has beginner-friendly explanations, diagrams, runnable code, real case studies, a hands-on exercise and interview questions.
 
 ## Published days (newest first)
 
+- [Day 12 — The Claude stack: Claude Code, Claude Agent SDK, skills and execution policies](days/day-12-claude-stack.html) · 8 Nov 2026
+- [Day 11 — Agent SDKs and gateways: OpenAI SDK, OpenRouter, LangChain and LangGraph](days/day-11-agent-sdks-and-gateways.html) · 8 Nov 2026
 - [Day 10 — Harness engineering](days/day-10-harness-engineering.html) · 6 Nov 2026
 - [Day 9 — Context engineering](days/day-09-context-engineering.html) · 5 Nov 2026
 - [Day 8 — Token cost optimization](days/day-08-token-cost-optimization.html) · 4 Nov 2026
