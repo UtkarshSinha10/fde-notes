@@ -7,6 +7,8 @@ A 50-day, one-topic-a-day course on becoming a **Forward Deployed Engineer (FDE)
 
 ## Published days (newest first)
 
+- [Day 10 — Harness engineering](days/day-10-harness-engineering.html) · 6 Nov 2026
+- [Day 9 — Context engineering](days/day-09-context-engineering.html) · 5 Nov 2026
 - [Day 8 — Token cost optimization](days/day-08-token-cost-optimization.html) · 4 Nov 2026
 - [Day 7 — Open-source and local models](days/day-07-open-source-and-local-models.html) · 3 Nov 2026
 - [Day 6 — The AI SDK](days/day-06-the-ai-sdk.html) · 3 Nov 2026
